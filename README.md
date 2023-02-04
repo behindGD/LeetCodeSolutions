@@ -23,3 +23,4 @@ Play LeetCode with C#
 |  22   | Generate Parentheses | Medium | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/GenerateParentheses.cs) |
 |  567  | Permutation In String | Medium | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/PermutationInString.cs) |
 |  734  | Sentence Similarity | Medium | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/SentenceSimilarity.cs) |
+|  953  | Verifying an Alien Dictionary | Medium | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/VerifyingAnAlienDictionary.cs) |
