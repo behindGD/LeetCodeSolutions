@@ -21,6 +21,9 @@ Play LeetCode with C#
 |  20   | Valid Parentheses | Medium | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/ValidParentheses.cs) |
 |  21   | Merge Two Sorted Lists | Medium | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/MergeTwoSortedLists.cs) |
 |  22   | Generate Parentheses | Medium | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/GenerateParentheses.cs) |
+|  438   | Find All Anagrams in a String | Medium | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/FindAllAnagramsInAString.cs) |
 |  567  | Permutation In String | Medium | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/PermutationInString.cs) |
 |  734  | Sentence Similarity | Medium | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/SentenceSimilarity.cs) |
-|  953  | Verifying an Alien Dictionary | Medium | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/VerifyingAnAlienDictionary.cs) |
+|  905  | Fruit Into Baskets | Medium | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/FruitIntoBaskets.cs) |
+|  953  | Verifying an Alien Dictionary | Easy | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/VerifyingAnAlienDictionary.cs) |
+|  1470  | Shuffle the Array | Easy | [C#](https://github.com/liuhy000/LeetCodeSolutions/blob/main/ShuffleTheArray.cs) |
