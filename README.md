@@ -29,6 +29,7 @@ Play LeetCode with C#
 |  33   | Search in Rotated Sorted Array | Medium | [C#](https://github.com/behindGD/LeetCodeSolutions/blob/main/SourceCode/SearchInRotatedSortedArray.cs) |
 |  45   | Jump Game II | Medium | [C#](https://github.com/behindGD/LeetCodeSolutions/blob/main/SourceCode/JumpGameII.cs) |
 |  55   | Jump Game | Medium | [C#](https://github.com/behindGD/LeetCodeSolutions/blob/main/SourceCode/JumpGame.cs) |
+|  67   | Add Binary | Easy | [C#](https://github.com/behindGD/LeetCodeSolutions/blob/main/SourceCode/AddBinary.cs) |
 |  438   | Find All Anagrams in a String | Medium | [C#](https://github.com/behindGD/LeetCodeSolutions/blob/main/SourceCode/FindAllAnagramsInAString.cs) |
 |  567  | Permutation In String | Medium | [C#](https://github.com/behindGD/LeetCodeSolutions/blob/main/SourceCode/PermutationInString.cs) |
 |  734  | Sentence Similarity | Medium | [C#](https://github.com/behindGD/LeetCodeSolutions/blob/main/SourceCode/SentenceSimilarity.cs) |
